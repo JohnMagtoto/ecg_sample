@@ -1,0 +1,14 @@
+{
+  "name": "sample-ecg",
+  "version": "1.0.0",
+  "description": "Sample ECG implementation using web tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JohnMagtoto<john@enceladus.co.jp>",
+  "license": "ISC",
+  "dependencies": {
+    "d3": "^4.13.0"
+  }
+}
